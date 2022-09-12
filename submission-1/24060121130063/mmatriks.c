@@ -1,7 +1,7 @@
 /* Program   : mmatriks.c */
 /* Deskripsi : driver file modul ADT Matriks tugas praktikum C1*/
-/* NIM/Nama  : 24060*/
-/* Tanggal   : */
+/* NIM/Nama  : 24060121130063/Givandra Haikal Adjie*/
+/* Tanggal   : 12 September 2022*/
 /***********************************/
 #include <stdio.h>
 #include "matriks.h"

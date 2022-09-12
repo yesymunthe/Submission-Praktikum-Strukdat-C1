@@ -1,7 +1,7 @@
 /* Program   : matriks.h */
 /* Deskripsi : header file modul ADT Matriks */
-/* NIM/Nama  : */
-/* Tanggal   : */
+/* NIM/Nama  : 24060121130063/Givandra Haikal Adjie*/
+/* Tanggal   : 12 September 2022*/
 /***********************************/
 #ifndef MATRIKS_H
 #define MATRIKS_H

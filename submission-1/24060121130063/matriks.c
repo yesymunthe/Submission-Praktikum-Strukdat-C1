@@ -1,7 +1,7 @@
 /* Program   : matriks.c */
 /* Deskripsi : realisasi body file modul ADT Matriks */
 /* NIM/Nama  : 24060121130063*/
-/* Tanggal   : */
+/* Tanggal   : 12 September 2022*/
 /***********************************/
 #include <stdio.h>
 #include <stdbool.h>
