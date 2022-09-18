@@ -1,4 +1,4 @@
-/* Program   : matriks.c */
+/* Program   : mmatriks.c */
 /* Deskripsi : realisasi matriks */
 /* NIM/Nama  : Muhamad ridwan ash'shidqi/ 24060121130075*/
 /* Tanggal   : 18 September 2022*/
