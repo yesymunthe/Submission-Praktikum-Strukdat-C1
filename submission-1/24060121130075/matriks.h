@@ -1,4 +1,4 @@
-/* Program   : matriks.c */
+/* Program   : matriks.h */
 /* Deskripsi : realisasi matriks */
 /* NIM/Nama  : Muhamad ridwan ash'shidqi/ 24060121130075*/
 /* Tanggal   : 18 September 2022*/
@@ -152,7 +152,7 @@ dg setiap elemen diagonal M bernilai 1 dan elemen yang bukan diagonal bernilai 0
 bool IsSatuanMatriks (Matriks M);
 
 /*function IsSparseMatriks(M:Matriks)->boolean*/
-/*{mengembalikan true jika matriks M adalah matriks sparse: matriks “jarang” dengan definisi:
+/*{mengembalikan true jika matriks M adalah matriks sparse: matriks â€œjarangâ€ dengan definisi:
 hanya maksimal 5% dari element matriks yang efektif bukan bernilai kosong(-999)}*/
 bool IsSparseMatriks (Matriks M);
 
